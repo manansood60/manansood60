@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @manansood60
-- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning DSA, Android Development with java 
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me manansood60@gmail.com
