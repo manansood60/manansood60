@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @manansood60
-- 🌱 I’m currently learning DSA, Android Development with java 
-- 💞️ I’m looking to collaborate on Android projects
+<!---- ✨ I have a hands on experience with Native Android Development using Java --->
+- ✨ I have a hands on experience with React Native 
+- 💞️ I’m looking to collaborate on React Native projects
 - 📫 How to reach me manansood60@gmail.com
 
 <!---
